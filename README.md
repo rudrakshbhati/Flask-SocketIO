@@ -1,5 +1,6 @@
 # Flask-SocketIO
 install requirements using pip install -r requirements.txt
+add class = "chat_box" to  any <div> 
 Type python main.py to run server on default port
 OR
 to connect different machines
