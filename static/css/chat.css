@@ -1,0 +1,42 @@
+#user_name{
+	float: left;
+}
+
+#send_name{
+	float: right;
+}
+
+#my_message{
+	float: left;
+}
+
+#send_button{
+	float: right;
+}
+
+
+.chat_box{	
+	background-color: white;
+	height: 350px;
+	width: 250px;
+	padding: 10px;
+	z-index: 100;
+	position: relative;
+}
+
+#type_area{
+	position: absolute;
+    bottom: 0;
+    padding-bottom: 5px;
+}
+#for_user_msg{
+	bottom: 0
+}
+#r_message{
+	height: 300px;
+	overflow: auto;
+}
+
+button,input{
+margin :2px;
+}
